@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1000&color=F0B429&center=true&vCenter=true&multiline=false&width=600&height=40&lines=Senior+Headhunter+%7C+Talent+Architect;Connecting+Right+People+to+Right+Seats;Indie+Builder+%7C+Passive+Income+Seeker;Right+person.+Right+seat.+Right+time." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1000&color=F0B429&center=true&vCenter=true&width=600&height=40&lines=Senior+Headhunter+%7C+Talent+Architect;Connecting+Right+People+to+Right+Seats;Indie+Builder+%7C+Passive+Income+Seeker;Right+person.+Right+seat.+Right+time." alt="Typing SVG" />
 </div>
 
 <br/>
@@ -20,33 +20,36 @@
 
 ## ✦ Character Sheet
 
-<div align="center">
+<table>
+<tr>
+<td width="55%">
 
 | | |
 |---|---|
 | ⚔️ **Name** | Jacky Chen |
-| 🧙 **Class** | Headhunter `[ Talent Architect Specialization ]` |
+| 🧙 **Class** | Headhunter `[ Talent Architect Spec ]` |
 | 🏰 **Faction** | Taiwan Talent Market |
-| ⚡ **Level** | `??` &nbsp; *( still grinding... )* |
+| ⚡ **Level** | `??` *( still grinding... )* |
 | 💎 **iLvl** | C-Suite & Director Level Search |
 | 🗡️ **Weapon** | Network + Insight + Intuition |
 | 📜 **Creed** | *「找到對的人，比找到很多人更重要」* |
 
-</div>
+</td>
+<td width="45%" align="center">
+  <img src="avatar.jpg" width="220" style="border-radius:12px"/>
+</td>
+</tr>
+</table>
 
 ---
 
 ## ⚡ Active Quests
-
-<div align="center">
 
 | Quest | Progress | Status |
 |-------|----------|--------|
 | ⚔️ 獵取頂尖人才，改變企業命運 | `████████████████████░░░` | 🟠 MAIN |
 | 🛠️ 打造被動收入工具，財務自由 | `████████████░░░░░░░░░░░` | 🟣 SIDE |
 | 🔄 深耕市場洞察，持續累積信任 | `███████████████████░░░░` | 🔵 DAILY |
-
-</div>
 
 ---
 
@@ -123,6 +126,28 @@
 
 ---
 
+## 📜 Lore
+
+<table>
+<tr>
+<td width="50%" align="center">
+  <img src="photo-me.jpg" width="260" style="border-radius:12px"/>
+  <br/><sub><i>The Headhunter, off duty ☕</i></sub>
+</td>
+<td width="50%" align="center">
+  <img src="tattoo.jpg" width="240" style="border-radius:12px"/>
+  <br/><sub><i>「胸を張って生きろ」— 昂首挺胸地活著</i></sub>
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <img src="banner-fire.jpg" width="80%" style="border-radius:12px; margin-top:1rem"/>
+  <br/><sub><i>炎 — The spirit that drives the hunt 🔥</i></sub>
+</div>
+
+---
+
 ## 📮 Send Whisper
 
 <div align="center">
@@ -142,10 +167,6 @@
 <a href="https://dividend-calculator1.pages.dev">
   <img src="https://img.shields.io/badge/🌐_股利計算器-Visit%20Tool-1e3a8a?style=for-the-badge&labelColor=0d0221"/>
 </a>
-
-<br/><br/>
-
-*「胸を張って生きろ」— 昂首挺胸地活著*
 
 </div>
 
