@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&random=false&width=620&lines=🎯+中高階獵才顧問+%7C+Senior+Headhunter;🧠+用人性洞察定位頂尖人才;🛠️+斜槓工程師+%7C+用+Code+打造被動收入;🚀+Connecting+Right+People+to+Right+Seats" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&random=false&width=620&lines=Senior+Headhunter+%7C+Talent+Architect;Connecting+Right+People+to+Right+Seats;Indie+Builder+%7C+Side+Project+Enthusiast;Making+Money+While+Sleeping+%F0%9F%92%A4" alt="Typing SVG" />
 </div>
 
 <br/>
