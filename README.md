@@ -1,19 +1,19 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,30:1e0b4b,65:4c1d95,100:7c3aed&height=280&text=JACKY%20CHEN&fontSize=75&fontColor=f0b429&animation=fadeIn&fontAlignY=42&stroke=f0b429&strokeWidth=2&desc=HR%20Headhunter%20%7C%20Talent%20Architect%20%7C%20Indie%20Builder&descAlignY=65&descSize=18&descColor=e9d5ff"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0000,25:3d0000,55:b91c1c,85:ea580c,100:f59e0b&height=280&text=JACKY%20CHEN&fontSize=75&fontColor=fef08a&animation=fadeIn&fontAlignY=42&stroke=ea580c&strokeWidth=2&desc=HR%20Headhunter%20%7C%20Talent%20Architect%20%7C%20Indie%20Builder&descAlignY=65&descSize=18&descColor=fed7aa"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1000&color=F0B429&center=true&vCenter=true&width=600&height=40&lines=Senior+Headhunter+%7C+Talent+Architect;Connecting+Right+People+to+Right+Seats;Indie+Builder+%7C+Passive+Income+Seeker;Right+person.+Right+seat.+Right+time." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1000&color=FF4500&center=true&vCenter=true&width=600&height=40&lines=Senior+Headhunter+%7C+Talent+Architect;Connecting+Right+People+to+Right+Seats;Indie+Builder+%7C+Passive+Income+Seeker;Right+person.+Right+seat.+Right+time." alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-%E2%9A%94%EF%B8%8F%20HR%20HEADHUNTER-4c1d95?style=for-the-badge&labelColor=0d0221"/>
+  <img src="https://img.shields.io/badge/-%E2%9A%94%EF%B8%8F%20HR%20HEADHUNTER-b91c1c?style=for-the-badge&labelColor=0d0000"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/-%F0%9F%8F%B0%20TAIWAN%20TECH%20%26%20FINANCE-1e3a8a?style=for-the-badge&labelColor=0d0221"/>
+  <img src="https://img.shields.io/badge/-%F0%9F%8F%B0%20TAIWAN%20TECH%20%26%20FINANCE-ea580c?style=for-the-badge&labelColor=0d0000"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/-%F0%9F%9B%A1%EF%B8%8F%20INDIE%20BUILDER-92400e?style=for-the-badge&labelColor=0d0221"/>
+  <img src="https://img.shields.io/badge/-%F0%9F%9B%A1%EF%B8%8F%20INDIE%20BUILDER-78350f?style=for-the-badge&labelColor=0d0000"/>
 </div>
 
 ---
@@ -36,7 +36,7 @@
 
 </td>
 <td width="45%" align="center">
-  <table bgcolor="#f0b429" cellpadding="6" cellspacing="0"><tr><td bgcolor="#0d0221"><img src="photo-me.jpg" width="240"/></td></tr></table>
+  <table bgcolor="#ea580c" cellpadding="6" cellspacing="0"><tr><td bgcolor="#0d0000"><img src="photo-me.jpg" width="240"/></td></tr></table>
   <br/><sub><i>The Headhunter, off duty ☕</i></sub>
 </td>
 </tr>
@@ -133,7 +133,7 @@
 
 <img src="https://img.shields.io/badge/Powered%20by-Claude%20Code-cc785c?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=191919"/>
 &nbsp;
-<img src="https://img.shields.io/badge/🦞_Also_into-Lobster%20Farming-dc2626?style=for-the-badge&labelColor=0d0221"/>
+<img src="https://img.shields.io/badge/🦞_Also_into-Lobster%20Farming-dc2626?style=for-the-badge&labelColor=0d0000"/>
 
 </div>
 
@@ -142,9 +142,27 @@
 ## 📊 Battle Records
 
 <div align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=jackychen0615-spec&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=f0b429&icon_color=c4b5fd&text_color=e2e8f0&bg_color=0d0221"/>
-  &nbsp;
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackychen0615-spec&layout=compact&theme=tokyonight&hide_border=true&title_color=f0b429&text_color=e2e8f0&bg_color=0d0221"/>
+
+<img src="https://komarev.com/ghpvc/?username=jackychen0615-spec&style=for-the-badge&color=b91c1c&label=PROFILE+VIEWS"/>
+
+<br/><br/>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=jackychen0615-spec&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=f59e0b&icon_color=ea580c&text_color=fed7aa&bg_color=0d0000"/>
+&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackychen0615-spec&layout=compact&theme=radical&hide_border=true&title_color=f59e0b&text_color=fed7aa&bg_color=0d0000"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=jackychen0615-spec&theme=radical&hide_border=true&background=0d0000&ring=ea580c&fire=f59e0b&currStreakLabel=f59e0b&dates=fed7aa&sideLabels=fed7aa&sideNums=f59e0b"/>
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jackychen0615-spec&bg_color=0d0000&color=f59e0b&line=ea580c&point=fef08a&area=true&hide_border=true&area_color=b91c1c"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=jackychen0615-spec&theme=radical&no-frame=true&row=1&column=6&margin-w=8"/>
+
 </div>
 
 ---
@@ -156,13 +174,13 @@
 <table border="0" cellspacing="0" cellpadding="16">
 <tr>
 <td align="center" width="44%">
-  <table bgcolor="#f0b429" cellpadding="6" cellspacing="0"><tr><td bgcolor="#0d0221"><img src="tattoo.jpg" width="300"/></td></tr></table>
+  <table bgcolor="#ea580c" cellpadding="6" cellspacing="0"><tr><td bgcolor="#0d0000"><img src="tattoo.jpg" width="300"/></td></tr></table>
   <br/>
   <b>「胸を張って生きろ」</b><br/>
   <sub>昂首挺胸地活著</sub>
 </td>
 <td align="center" width="50%">
-  <table bgcolor="#7c3aed" cellpadding="6" cellspacing="0"><tr><td bgcolor="#0d0221"><img src="banner-fire.jpg" width="340"/></td></tr></table>
+  <table bgcolor="#b91c1c" cellpadding="6" cellspacing="0"><tr><td bgcolor="#0d0000"><img src="banner-fire.jpg" width="340"/></td></tr></table>
   <br/>
   <b>炎 · The spirit that drives the hunt</b><br/>
   <sub>🔥 每一次獵才，都是一場燃燒的使命</sub>
@@ -189,15 +207,15 @@
 <br/>
 
 <a href="mailto:jackychen@step1ne.com">
-  <img src="https://img.shields.io/badge/📩_jackychen%40step1ne.com-Send%20Whisper-4c1d95?style=for-the-badge&labelColor=0d0221"/>
+  <img src="https://img.shields.io/badge/📩_jackychen%40step1ne.com-Send%20Whisper-b91c1c?style=for-the-badge&labelColor=0d0000"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/jacky-chen-0a8a6416a/">
-  <img src="https://img.shields.io/badge/LinkedIn-Jacky%20Chen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0221"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Jacky%20Chen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0000"/>
 </a>
 &nbsp;
 <a href="https://dividend-calculator1.pages.dev">
-  <img src="https://img.shields.io/badge/🌐_股利計算器-Visit%20Tool-1e3a8a?style=for-the-badge&labelColor=0d0221"/>
+  <img src="https://img.shields.io/badge/🌐_股利計算器-Visit%20Tool-ea580c?style=for-the-badge&labelColor=0d0000"/>
 </a>
 
 </div>
@@ -205,5 +223,5 @@
 <br/>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,35:4c1d95,70:1e0b4b,100:0d0221&height=150&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,35:ea580c,70:b91c1c,100:0d0000&height=150&section=footer"/>
 </div>
