@@ -110,8 +110,30 @@
 | 🏰 Project | 📜 Description | ⚙️ Stack |
 |-----------|----------------|----------|
 | [📊 股利計算器](https://dividend-calculator1.pages.dev) | 台股投資試算工具，含複利 / 回本 / 定期定額 | HTML · JS · Cloudflare Pages |
+| [📦 CAD 包裝盒設計](https://github.com/jackychen0615-spec/CAD) | AI 3D 刀模展開圖，材質選擇與 BCT 強度估算 | React · TypeScript · Gemini AI |
+| [🎮 AETHEREA](https://github.com/jackychen0615-spec/game) | 瀏覽器 3D MMORPG，WASD 移動與戰鬥系統 | React · TypeScript · WebGL |
+| [🎬 TubeViral AI](https://github.com/jackychen0615-spec/ytvideo) | YouTube 頻道管理，AI 趨勢分析與內容策略 | React · TypeScript · YouTube API |
 
 > *"The secret to passive income is building while others sleep."*
+
+</div>
+
+---
+
+## 🦞 About My Other World
+
+<div align="center">
+
+| | |
+|---|---|
+| 🦞 **龍蝦養殖事業** | 除了獵才與 Code，我也經營龍蝦養殖，跨界玩真的 |
+| 🤖 **Built with Claude Code** | 所有 Side Projects 皆由 AI 輔助開發，擁抱 AI 時代 |
+
+<br/>
+
+<img src="https://img.shields.io/badge/Powered%20by-Claude%20Code-cc785c?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=191919"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🦞_Also_into-Lobster%20Farming-dc2626?style=for-the-badge&labelColor=0d0221"/>
 
 </div>
 
