@@ -130,15 +130,33 @@
 ## 📜 Lore
 
 <div align="center">
-  <img src="tattoo.jpg" width="320" style="border-radius:12px"/>
-  <br/><sub><i>「胸を張って生きろ」— 昂首挺胸地活著</i></sub>
-</div>
+
+<table border="0" cellspacing="0" cellpadding="12">
+<tr>
+<td align="center" width="42%">
+  <img src="tattoo.jpg" width="100%" style="border-radius:16px"/>
+  <br/><br/>
+  <b>「胸を張って生きろ」</b>
+  <br/>
+  <sub>昂首挺胸地活著</sub>
+</td>
+<td width="8%"></td>
+<td align="center" width="50%">
+  <img src="banner-fire.jpg" width="100%" style="border-radius:16px"/>
+  <br/><br/>
+  <b>炎 · The spirit that drives the hunt</b>
+  <br/>
+  <sub>🔥 每一次獵才，都是一場燃燒的使命</sub>
+</td>
+</tr>
+</table>
 
 <br/>
 
-<div align="center">
-  <img src="banner-fire.jpg" width="80%" style="border-radius:12px"/>
-  <br/><sub><i>炎 — The spirit that drives the hunt 🔥</i></sub>
+> *在台灣的人才市場中，有一位獵頭顧問。*
+> *白天追蹤頂尖人才，夜晚用 Code 打造被動收入工具。*
+> **"Right person. Right seat. Right time."**
+
 </div>
 
 ---
