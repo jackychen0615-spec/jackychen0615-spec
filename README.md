@@ -36,7 +36,8 @@
 
 </td>
 <td width="45%" align="center">
-  <img src="avatar.jpg" width="220" style="border-radius:12px"/>
+  <img src="photo-me.jpg" width="260" style="border-radius:12px"/>
+  <br/><sub><i>The Headhunter, off duty ☕</i></sub>
 </td>
 </tr>
 </table>
@@ -128,21 +129,15 @@
 
 ## 📜 Lore
 
-<table>
-<tr>
-<td width="50%" align="center">
-  <img src="photo-me.jpg" width="260" style="border-radius:12px"/>
-  <br/><sub><i>The Headhunter, off duty ☕</i></sub>
-</td>
-<td width="50%" align="center">
-  <img src="tattoo.jpg" width="240" style="border-radius:12px"/>
+<div align="center">
+  <img src="tattoo.jpg" width="320" style="border-radius:12px"/>
   <br/><sub><i>「胸を張って生きろ」— 昂首挺胸地活著</i></sub>
-</td>
-</tr>
-</table>
+</div>
+
+<br/>
 
 <div align="center">
-  <img src="banner-fire.jpg" width="80%" style="border-radius:12px; margin-top:1rem"/>
+  <img src="banner-fire.jpg" width="80%" style="border-radius:12px"/>
   <br/><sub><i>炎 — The spirit that drives the hunt 🔥</i></sub>
 </div>
 
