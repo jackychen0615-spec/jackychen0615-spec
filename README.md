@@ -135,6 +135,10 @@
   <img src="https://img.shields.io/badge/📩_jackychen%40step1ne.com-Send%20Whisper-4c1d95?style=for-the-badge&labelColor=0d0221"/>
 </a>
 &nbsp;
+<a href="https://www.linkedin.com/in/jacky-chen-0a8a6416a/">
+  <img src="https://img.shields.io/badge/LinkedIn-Jacky%20Chen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0221"/>
+</a>
+&nbsp;
 <a href="https://dividend-calculator1.pages.dev">
   <img src="https://img.shields.io/badge/🌐_股利計算器-Visit%20Tool-1e3a8a?style=for-the-badge&labelColor=0d0221"/>
 </a>
