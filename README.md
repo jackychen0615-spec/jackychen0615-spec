@@ -36,7 +36,7 @@
 
 </td>
 <td width="45%" align="center">
-  <img src="photo-me.jpg" width="240"/>
+  <table bgcolor="#f0b429" cellpadding="6" cellspacing="0"><tr><td bgcolor="#0d0221"><img src="photo-me.jpg" width="240"/></td></tr></table>
   <br/><sub><i>The Headhunter, off duty ☕</i></sub>
 </td>
 </tr>
@@ -133,15 +133,15 @@
 
 <table border="0" cellspacing="0" cellpadding="16">
 <tr>
-<td align="center">
-  <img src="tattoo.jpg" width="260" height="320" style="object-fit:cover"/>
-  <br/><br/>
+<td align="center" width="44%">
+  <table bgcolor="#f0b429" cellpadding="6" cellspacing="0"><tr><td bgcolor="#0d0221"><img src="tattoo.jpg" width="300"/></td></tr></table>
+  <br/>
   <b>「胸を張って生きろ」</b><br/>
   <sub>昂首挺胸地活著</sub>
 </td>
-<td align="center">
-  <img src="banner-fire.jpg" width="300" height="320" style="object-fit:cover"/>
-  <br/><br/>
+<td align="center" width="50%">
+  <table bgcolor="#7c3aed" cellpadding="6" cellspacing="0"><tr><td bgcolor="#0d0221"><img src="banner-fire.jpg" width="340"/></td></tr></table>
+  <br/>
   <b>炎 · The spirit that drives the hunt</b><br/>
   <sub>🔥 每一次獵才，都是一場燃燒的使命</sub>
 </td>
